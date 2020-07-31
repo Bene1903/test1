@@ -1,1 +1,1 @@
-[{"عکس عنوان":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/800px-Android_robot.svg.png","عنوان":"ازادانه","توضیحات":"ساخت اپلیکیشن سفارشی تا هد امکانات","قیمت":"2000","نام":"بنیامین","کد":"1"}]
+[{"عکس عنوان":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/800px-Android_robot.svg.png","عنوان":"سفارشی","توضیحات":"ساخت اپلیکیشن سفارشی تا هد امکانات","قیمت":"2000","نام":"بنیامین","کد":"1"}]
